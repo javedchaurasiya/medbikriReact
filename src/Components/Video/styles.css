@@ -1,0 +1,35 @@
+.outer-video
+{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: row;
+    height: 160px;
+    margin-bottom: 20px;
+}
+.info-container
+{
+    margin-left: 10px;
+    font-size: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    overflow:auto;
+    gap: 5px;
+}
+.title-container
+{
+    font-size: 14px;
+}
+img
+{
+    width: 280px;
+}
+.navigation
+{
+    /* border: 1px solid red; */
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 50%;
+    margin: 0 auto;
+}

@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&family=Roboto+Mono&display=swap');
+.outer-dashboard
+{
+    /* border: 1px solid red; */
+    width: 80%;
+    margin: 0 auto;
+    min-width: 600px;
+    max-width: 800px;
+    padding-top: 30px;
+    font-family: 'Poppins',sans-serif;
+
+}
